@@ -23,6 +23,12 @@ export default function Electronics() {
       name: "Smartwatch",
       price: 4999,
       image: "/images/e3.jpg"
+    },
+    {
+      id: "e4",
+      name: "c-cable charger",
+      price: 499,
+      image:"/images/e4.webp"
     }
   ];
 
